@@ -43,7 +43,7 @@
     "bindings": "1.2.1",
     "debug": "^2.1.1",
     "nan": "~2.0.0",
-    "node-pre-gyp": "0.6.x",
+    "node-pre-gyp": "mertdogar/node-pre-gyp#0.6.14",
     "optimist": "~0.6.1",
     "sf": "0.1.7"
   },
